@@ -1,2 +1,2 @@
 # dcs
-Documents Control System
+Document Control System
